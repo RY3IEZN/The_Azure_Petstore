@@ -1,3 +1,3 @@
 <!-- @format -->
 
-# The Azure Petstore V:u.e
+# The Azure Petstore
