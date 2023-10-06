@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Week 0 Set up Infrastructure
+# 0 Set up Infrastructure
 
 In this spirit of an azure cloud engineer we will be setting up all our infrastructure on azure cloud
 
