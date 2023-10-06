@@ -53,3 +53,5 @@ wait for it to create and then go to the resource
 ![](images/infra10.png)
 
 Great we have a fresh clean ubuntu vm to use and push to docker
+
+![](images/infra11.png)
