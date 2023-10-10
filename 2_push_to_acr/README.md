@@ -71,3 +71,19 @@ Procced back to your terminal and then login with the command `az acr login -n r
 once logged in succesfully we can begin to push to acr
 
 # C. Push to acr
+
+Once the images are ready we can push to acr, so first tag the image with
+
+```
+docker image tag <petstoreorderervice>:latest <youraliaspetstorecr>.azurecr.io/petstoreorderservice:latest
+```
+
+then finally push them to acr
+
+```
+docker push <youraliaspetstorecr>.azurecr.io/petstoreapp:latest
+```
+
+go to acr under repo, you should see your images
+
+![](images/buildabpa.png)
